@@ -1,5 +1,5 @@
 # livedoor_categorization
-ライブドアニュースコーパス（https://www.rondhuit.com/download.htmlよりダウンロード）のカテゴリ分類を行うTransformerモデルを実装しています。<br/>
+ライブドアニュースコーパス（https://www.rondhuit.com/download.html よりダウンロード）のカテゴリ分類を行うTransformerモデルを実装しています。<br/>
 NotebookでTutorial形式で書こうとしています。
 
 ファイルの説明<br/>
